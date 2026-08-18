@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Dali Pitambar
 
-#### 🎓 3rd Computer Science Engineering (CSE) Student 
+#### 🎓 3rd Year Computer Science Engineering (CSE) Student 
 #### 💻 Interested in Python, C++, AI/ML, Machine Learning and Data Analytics with python
 #### 🌱 Currently learning Machine Learning and Data Analytics with python
 #### 🚀 I enjoy building practical projects and learning new technologies
