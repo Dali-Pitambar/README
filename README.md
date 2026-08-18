@@ -8,7 +8,7 @@
 # 🛠️ Skills
 
 #### - 🐍 Python
-#### - 💻 C++
+#### - 💻 C++ Basics
 #### - 🔧 Git & GitHub
 #### - 🧹 Data Cleaning
 #### - 📊 Data Visualization
