@@ -6,12 +6,12 @@
 #### 🚀 I enjoy building practical projects and learning new technologies
 
 ## 🛠️ Skills
-Python | C++ | Git | GitHub | Machine Learning | Data Analytics
+#### Python | C++ | Git | GitHub | Machine Learning | Data Analytics
 
 ## 📌 Projects
 
 ### 📰 Fake News Detection
-A machine learning project that predicts whether a news article is real or fake.
+#### A machine learning project that predicts whether a news article is real or fake.
 
 ## 📫 Connect With Me
 
