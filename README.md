@@ -1,9 +1,9 @@
-Hi 👋, I'm Dali Pitambar
+### Hi 👋, I'm Dali Pitambar
 
-###🎓 Computer Science Engineering Student
-###💻 Interested in Python, C++, AI/ML, Machine Learning and Data Analytics with python
-###🌱 Currently learning Machine Learning and Data Analytics with python
-###🚀 I enjoy building practical projects and learning new technologies
+### 🎓 Computer Science Engineering Student
+### 💻 Interested in Python, C++, AI/ML, Machine Learning and Data Analytics with python
+### 🌱 Currently learning Machine Learning and Data Analytics with python
+### 🚀 I enjoy building practical projects and learning new technologies
 
 ## 🛠️ Skills
 Python | C++ | Git | GitHub | Machine Learning | Data Analytics
