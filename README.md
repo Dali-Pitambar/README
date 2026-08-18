@@ -15,8 +15,8 @@
 
 ## 📫 Connect With Me
 
-#### LinkedIn: Add your LinkedIn profile link here
-#### GitHub: Add your GitHub profile link here
+#### LinkedIn : Add your LinkedIn profile link here
+#### GitHub : Add your GitHub profile link here
 
 
 
