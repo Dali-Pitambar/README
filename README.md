@@ -9,8 +9,8 @@ Hi 👋, I'm Dali Pitambar
 Python | C++ | Git | GitHub | Machine Learning | Data Analytics
 
 ### 📌 Projects
-• Fake News Detection
-
+## 📰 Fake News Detection
+A machine learning project that predicts whether a news article is real or fake.
 ### 📫 Connect with me
 LinkedIn: [D Pitambar]
 
