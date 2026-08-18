@@ -16,10 +16,10 @@
 
 # 📚 Currently Learning
 
-#### - Data Structures and Algorithms
-#### - Machine Learning
-#### - Natural Language Processing
-#### - Data Analytics With Python
+#### - 🧩 Data Structures and Algorithms
+#### - 🤖 Machine Learning
+#### - 🗣️ Natural Language Processing
+#### - 📊 Data Analytics With Python
 
 
 # 📌 Projects
@@ -29,8 +29,8 @@
 
 # 📫 Connect With Me
 
-#### - LinkedIn : Add your LinkedIn profile link here
-#### - GitHub : Add your GitHub profile link here
+#### - 💼 LinkedIn : Add your LinkedIn profile link here
+#### - 🐙 GitHub : Add your GitHub profile link here
 
 
 
