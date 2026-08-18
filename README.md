@@ -6,7 +6,21 @@
 #### 🚀 I enjoy building practical projects and learning new technologies
 
 # 🛠️ Skills
-#### Python | C++ Basics | Git | GitHub | Machine Learning | Data Analytics With Python
+
+#### - Python
+#### - C++
+#### - Git & GitHub
+#### - Data Cleaning 
+#### - Data Visualization
+
+
+# 📚 Currently Learning
+
+#### - Data Structures and Algorithms
+#### - Machine Learning
+#### - Natural Language Processing
+#### - Data Analytics With Python
+
 
 # 📌 Projects
 
