@@ -25,7 +25,7 @@
 # 📌 Projects
 
 ### 📰 Fake News Detection
-#### - A machine learning project that predicts whether a news article is real or fake.
+#### -📝 A machine learning project that predicts whether a news article is real or fake.
 
 # 📫 Connect With Me
 
