@@ -7,11 +7,11 @@
 
 # 🛠️ Skills
 
-#### - Python
-#### - C++
-#### - Git & GitHub
-#### - Data Cleaning 
-#### - Data Visualization
+#### - 🐍 Python
+#### - 💻 C++
+#### - 🔧 Git & GitHub
+#### - 🧹 Data Cleaning
+#### - 📊 Data Visualization
 
 
 # 📚 Currently Learning
