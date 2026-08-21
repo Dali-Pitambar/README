@@ -29,7 +29,7 @@
 # 📫 Connect With Me
 
 #### - 💼 LinkedIn : Add your LinkedIn profile link now
-#### - 🐙 GitHub : Add your GitHub profile link here
+#### - 🐙 GitHub : Add your GitHub profile link now
 
 
 
